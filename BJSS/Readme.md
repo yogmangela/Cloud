@@ -1,4 +1,4 @@
-# **Cloud Solution Architect :**
+# **Platform Engineer :**
 ![alt text](images/BJSS-v1.jpg)
 
 - Use Terraform modules to provision AWS resources such as VPC, IAM role, S3 bucket, SNS, API gateway, DynamoDB and Cloud watch
