@@ -98,4 +98,4 @@ Operation Excellence involves three steps Prepare, Operate and Evolve.
     o	Share learning with counterparts
     o	Scale In / Out if needed. 
 
-[**<< Previous Page**](/Readme.md)
+[**<< Previous Page**](/BJSS/Readme.md)
