@@ -13,4 +13,4 @@
 
 
 
-[**Read more on Well Architected Framework - Next Page >>**](/Readme-WAF.md)
+[**Read more on Well Architected Framework - Next Page >>**](/BJSS/Readme-WAF.md)
