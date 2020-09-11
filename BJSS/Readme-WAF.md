@@ -1,5 +1,4 @@
 # **Cloud Solution Architect :**
-![alt text](images/BJSS-v1.jpg)
 
 **Introduction:** 
 
